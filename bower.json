@@ -1,0 +1,21 @@
+{
+  "name": "TechNode",
+  "description": "",
+  "main": "",
+  "authors": [
+    "yiyubin <1049105063@qq.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/yyblove/TechNode",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "angular": "^1.5.8"
+  }
+}
